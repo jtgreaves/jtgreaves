@@ -17,7 +17,7 @@
 
 ---
 
-<img align="left" alt="JTG-Greaves's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JTG-Greaves&show_icons=true&hide_border=true" />
+<img align="left" alt="JTG-Greaves's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JTG-Greaves&show_icons=true&hide_border=true&count_private=true" />
 
 <!--
 Comment from GitHub: 
