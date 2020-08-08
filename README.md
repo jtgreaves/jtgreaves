@@ -11,13 +11,15 @@
 [<img align="left" alt="Josh.#1514 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="JTG_Greaves | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="jtgreaves.com | Articles" width="22px" src="https://img.icons8.com/android/24/000000/pencil.png" />][articles]
-
 <br />
 <br />
 
 ---
 
-<img align="left" alt="JTG-Greaves's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JTG-Greaves&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="JTG-Greaves' Github Stats" src="https://github-readme-stats.vercel.app/api?username=JTG-Greaves&show_icons=true&hide_border=true&count_private=true" />
+
+
+<img align="right" alt="JTG-Greaves' Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtg-greaves&layout=compact" />
 
 <!--
 Comment from GitHub: 
