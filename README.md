@@ -3,7 +3,7 @@
 ## Self-taught programmer 
 - 🔭 I’m currently working on my own [website][website]!
 - 🌱 Currently focusing on javascript.
-- 🥅 2020 Goals: To expand my current language knowledge, and to start learning C#.
+- 🥅 2021 Goals: To expand my current language knowledge, and to start learning C#.
 
 ### Connect with me:
 [<img align="left" alt="jtgreaves.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
